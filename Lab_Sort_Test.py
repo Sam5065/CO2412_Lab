@@ -1,6 +1,6 @@
 # Python program for implementation of Bubble Sort
 #Copyright: https://www.geeksforgeeks.org/python-program-for-bubble-sort/
-# [Sam5065] bubblesort test
+# [Sam5065] bubblesort test test
 
 import random
 import time
