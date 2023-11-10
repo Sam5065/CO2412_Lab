@@ -1,5 +1,5 @@
 # Python program for implementation of Bubble Sort
-#Copyright: https://www.geeksforgeeks.org/python-program-for-bubble-sort/
+# Copyright: https://www.geeksforgeeks.org/python-program-for-bubble-sort/
 # [Sam5065] bubblesort test
 
 import random
