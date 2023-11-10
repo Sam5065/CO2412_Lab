@@ -7,7 +7,6 @@
 #   maxnum (which returns the largest value from an unsorted array of integers.
 #2.	Extend the maxnum function to return the highest and lowest values from an unsorted array of integers.
 
-
 def factorial(n):
 
 # single line to find factorial
